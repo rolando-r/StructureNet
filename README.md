@@ -1,1 +1,1 @@
-# NewStructureNet
+# StructureNet
