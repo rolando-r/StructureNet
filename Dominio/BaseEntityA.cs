@@ -4,5 +4,5 @@ namespace Dominio;
 public class BaseEntityA
 {
     [Key] 
-    public string ? IdCodigo { get; set; }    
+    public string ? IdCod { get; set; }    
 }
