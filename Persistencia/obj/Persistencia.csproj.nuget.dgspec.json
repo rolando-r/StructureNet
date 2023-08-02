@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\roola\\OneDrive\\Escritorio\\Programación\\Proyectos Campus\\CSharp\\StructureNet\\Persistencia\\Persistencia.csproj": {}
+    "/home/apolm01-021/Desktop/StructureNet/Persistencia/Persistencia.csproj": {}
   },
   "projects": {
-    "c:\\Users\\roola\\OneDrive\\Escritorio\\Programación\\Proyectos Campus\\CSharp\\StructureNet\\Dominio\\Dominio.csproj": {
+    "/home/apolm01-021/Desktop/StructureNet/Dominio/Dominio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\roola\\OneDrive\\Escritorio\\Programación\\Proyectos Campus\\CSharp\\StructureNet\\Dominio\\Dominio.csproj",
+        "projectUniqueName": "/home/apolm01-021/Desktop/StructureNet/Dominio/Dominio.csproj",
         "projectName": "Dominio",
-        "projectPath": "c:\\Users\\roola\\OneDrive\\Escritorio\\Programación\\Proyectos Campus\\CSharp\\StructureNet\\Dominio\\Dominio.csproj",
-        "packagesPath": "C:\\Users\\roola\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\roola\\OneDrive\\Escritorio\\Programación\\Proyectos Campus\\CSharp\\StructureNet\\Dominio\\obj\\",
+        "projectPath": "/home/apolm01-021/Desktop/StructureNet/Dominio/Dominio.csproj",
+        "packagesPath": "/home/apolm01-021/.nuget/packages/",
+        "outputPath": "/home/apolm01-021/Desktop/StructureNet/Dominio/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\roola\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/home/apolm01-021/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -75,21 +75,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/7.0.109/RuntimeIdentifierGraph.json"
         }
       }
     },
-    "c:\\Users\\roola\\OneDrive\\Escritorio\\Programación\\Proyectos Campus\\CSharp\\StructureNet\\Persistencia\\Persistencia.csproj": {
+    "/home/apolm01-021/Desktop/StructureNet/Persistencia/Persistencia.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\roola\\OneDrive\\Escritorio\\Programación\\Proyectos Campus\\CSharp\\StructureNet\\Persistencia\\Persistencia.csproj",
+        "projectUniqueName": "/home/apolm01-021/Desktop/StructureNet/Persistencia/Persistencia.csproj",
         "projectName": "Persistencia",
-        "projectPath": "c:\\Users\\roola\\OneDrive\\Escritorio\\Programación\\Proyectos Campus\\CSharp\\StructureNet\\Persistencia\\Persistencia.csproj",
-        "packagesPath": "C:\\Users\\roola\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\roola\\OneDrive\\Escritorio\\Programación\\Proyectos Campus\\CSharp\\StructureNet\\Persistencia\\obj\\",
+        "projectPath": "/home/apolm01-021/Desktop/StructureNet/Persistencia/Persistencia.csproj",
+        "packagesPath": "/home/apolm01-021/.nuget/packages/",
+        "outputPath": "/home/apolm01-021/Desktop/StructureNet/Persistencia/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\roola\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/home/apolm01-021/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -101,8 +101,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "c:\\Users\\roola\\OneDrive\\Escritorio\\Programación\\Proyectos Campus\\CSharp\\StructureNet\\Dominio\\Dominio.csproj": {
-                "projectPath": "c:\\Users\\roola\\OneDrive\\Escritorio\\Programación\\Proyectos Campus\\CSharp\\StructureNet\\Dominio\\Dominio.csproj"
+              "/home/apolm01-021/Desktop/StructureNet/Dominio/Dominio.csproj": {
+                "projectPath": "/home/apolm01-021/Desktop/StructureNet/Dominio/Dominio.csproj"
               }
             }
           }
@@ -152,7 +152,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/7.0.109/RuntimeIdentifierGraph.json"
         }
       }
     }

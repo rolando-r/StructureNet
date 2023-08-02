@@ -1,0 +1,17 @@
+/home/apolm01-021/Desktop/StructureNet/Persistencia/bin/Debug/net7.0/Persistencia.deps.json
+/home/apolm01-021/Desktop/StructureNet/Persistencia/bin/Debug/net7.0/Persistencia.runtimeconfig.json
+/home/apolm01-021/Desktop/StructureNet/Persistencia/bin/Debug/net7.0/Persistencia.dll
+/home/apolm01-021/Desktop/StructureNet/Persistencia/bin/Debug/net7.0/Persistencia.pdb
+/home/apolm01-021/Desktop/StructureNet/Persistencia/bin/Debug/net7.0/Dominio.dll
+/home/apolm01-021/Desktop/StructureNet/Persistencia/bin/Debug/net7.0/Dominio.pdb
+/home/apolm01-021/Desktop/StructureNet/Persistencia/obj/Debug/net7.0/Persistencia.csproj.AssemblyReference.cache
+/home/apolm01-021/Desktop/StructureNet/Persistencia/obj/Debug/net7.0/Persistencia.GeneratedMSBuildEditorConfig.editorconfig
+/home/apolm01-021/Desktop/StructureNet/Persistencia/obj/Debug/net7.0/Persistencia.AssemblyInfoInputs.cache
+/home/apolm01-021/Desktop/StructureNet/Persistencia/obj/Debug/net7.0/Persistencia.AssemblyInfo.cs
+/home/apolm01-021/Desktop/StructureNet/Persistencia/obj/Debug/net7.0/Persistencia.csproj.CoreCompileInputs.cache
+/home/apolm01-021/Desktop/StructureNet/Persistencia/obj/Debug/net7.0/Persistencia.csproj.CopyComplete
+/home/apolm01-021/Desktop/StructureNet/Persistencia/obj/Debug/net7.0/Persistencia.dll
+/home/apolm01-021/Desktop/StructureNet/Persistencia/obj/Debug/net7.0/refint/Persistencia.dll
+/home/apolm01-021/Desktop/StructureNet/Persistencia/obj/Debug/net7.0/Persistencia.pdb
+/home/apolm01-021/Desktop/StructureNet/Persistencia/obj/Debug/net7.0/Persistencia.genruntimeconfig.cache
+/home/apolm01-021/Desktop/StructureNet/Persistencia/obj/Debug/net7.0/ref/Persistencia.dll

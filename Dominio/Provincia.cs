@@ -1,5 +1,5 @@
 namespace Dominio;
-public class Provincia : BaseEntityA
+public class Provincia : BaseEntity
 {
     public string ? NombreProvincia { get; set; }
     public int IdReg { get; set; }

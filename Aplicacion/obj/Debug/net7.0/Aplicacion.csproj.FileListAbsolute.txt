@@ -1,0 +1,17 @@
+/home/apolm01-021/Desktop/StructureNet/Aplicacion/bin/Debug/net7.0/Aplicacion.deps.json
+/home/apolm01-021/Desktop/StructureNet/Aplicacion/bin/Debug/net7.0/Aplicacion.dll
+/home/apolm01-021/Desktop/StructureNet/Aplicacion/bin/Debug/net7.0/Aplicacion.pdb
+/home/apolm01-021/Desktop/StructureNet/Aplicacion/bin/Debug/net7.0/Dominio.dll
+/home/apolm01-021/Desktop/StructureNet/Aplicacion/bin/Debug/net7.0/Persistencia.dll
+/home/apolm01-021/Desktop/StructureNet/Aplicacion/bin/Debug/net7.0/Dominio.pdb
+/home/apolm01-021/Desktop/StructureNet/Aplicacion/bin/Debug/net7.0/Persistencia.pdb
+/home/apolm01-021/Desktop/StructureNet/Aplicacion/obj/Debug/net7.0/Aplicacion.csproj.AssemblyReference.cache
+/home/apolm01-021/Desktop/StructureNet/Aplicacion/obj/Debug/net7.0/Aplicacion.GeneratedMSBuildEditorConfig.editorconfig
+/home/apolm01-021/Desktop/StructureNet/Aplicacion/obj/Debug/net7.0/Aplicacion.AssemblyInfoInputs.cache
+/home/apolm01-021/Desktop/StructureNet/Aplicacion/obj/Debug/net7.0/Aplicacion.AssemblyInfo.cs
+/home/apolm01-021/Desktop/StructureNet/Aplicacion/obj/Debug/net7.0/Aplicacion.csproj.CoreCompileInputs.cache
+/home/apolm01-021/Desktop/StructureNet/Aplicacion/obj/Debug/net7.0/Aplicacion.csproj.CopyComplete
+/home/apolm01-021/Desktop/StructureNet/Aplicacion/obj/Debug/net7.0/Aplicacion.dll
+/home/apolm01-021/Desktop/StructureNet/Aplicacion/obj/Debug/net7.0/refint/Aplicacion.dll
+/home/apolm01-021/Desktop/StructureNet/Aplicacion/obj/Debug/net7.0/Aplicacion.pdb
+/home/apolm01-021/Desktop/StructureNet/Aplicacion/obj/Debug/net7.0/ref/Aplicacion.dll

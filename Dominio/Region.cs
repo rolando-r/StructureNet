@@ -1,5 +1,5 @@
 namespace Dominio;
-public class Region : BaseEntityA
+public class Region : BaseEntity
 {
     public string ? NombreRegion { get; set; }
     public int ? IdPais { get; set; }

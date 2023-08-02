@@ -1,3 +1,8 @@
+using Microsoft.EntityFrameworkCore;
+using Persistencia;
+using MediatR;
+using Aplicacion.Paises;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
@@ -7,6 +12,12 @@ builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
+builder.Services.AddDbContext<StructureNetContext>(options =>
+{
+    string connectionString = builder.Configuration.GetConnectionString("DefaultConnection");
+    options.UseMySql(connectionString, ServerVersion.AutoDetect(connectionString));
+});
+builder.Services.AddMediatR(typeof(Consultas.Manejador).Assembly);
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.

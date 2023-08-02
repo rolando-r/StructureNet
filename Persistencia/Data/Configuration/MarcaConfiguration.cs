@@ -11,8 +11,8 @@ public class MarcaConfiguration : IEntityTypeConfiguration<Marca>
     {
         builder.ToTable("Marcas");
 
-        builder.HasKey(p => p.IdCod);
-        builder.Property(p => p.IdCod)
+        builder.HasKey(p => p.IdMarca);
+        builder.Property(p => p.IdMarca)
         .ValueGeneratedNever();
         
         builder.Property(p => p.DescripcionMarca)
